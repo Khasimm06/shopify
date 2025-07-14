@@ -80,7 +80,7 @@ h1, h2, h3 {
   justify-content: center;
   text-align: center;
   color: white;
-  background: linear-gradient(135deg, rgba(26, 26, 26, 0.6), rgba(17, 17, 17, 0.6)),url('images/banner3.jpg');
+  background: linear-gradient(135deg, rgba(26, 26, 26, 0.6), rgba(17, 17, 17, 0.6)),url('banner3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -210,13 +210,13 @@ h1, h2, h3 {
 }
 
 .feature1 {
-  background-image: url('images/img1.jpg');
+  background-image: url('img1.jpg');
 }
 .feature2 {
-  background-image: url('images/img2.jpg');
+  background-image: url('img2.jpg');
 }
 .feature3 {
-  background-image: url('images/img3.jpg');
+  background-image: url('img3.jpg');
 }
 
 .feature img {
@@ -445,7 +445,7 @@ h1, h2, h3 {
   position: relative;
   color: #fff;
   padding: 50px 20px;
-  background: url('images/footer.jpg') center/cover no-repeat;
+  background: url('footer.jpg') center/cover no-repeat;
   overflow: hidden;
 }
 
